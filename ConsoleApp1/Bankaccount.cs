@@ -12,8 +12,13 @@ public class Bankaccount
             Console.WriteLine("wait 4 secod please");
             System.Threading.Thread.Sleep(3000);
             Console.Clear();
-            Console.WriteLine("If you want get \n1)Ipoteka kredit\n2)Mahina kredit\n3)Maqsadsiz kredit\n" +
-                "4)Imtiyozli kredit\n5)Ta'lim kredit\n6)end");
+            Console.WriteLine("If you want get \n" +
+                "1)Ipoteka kredit\n" +
+                "2)Mahina kredit\n" +
+                "3)Maqsadsiz kredit\n" +
+                "4)Imtiyozli kredit\n" +
+                "5)Ta'lim kredit\n" +
+                "6)end");
             string ok = Console.ReadLine();
 
             if (ok == "1")

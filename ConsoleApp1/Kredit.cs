@@ -2,8 +2,6 @@
 {
     internal class Kredit
     {
-        // har bir kredit tipi uchun method ochilishi kerak.
-        // 5xil kredit  foizlar yillik hisobida
         #region ipoteka 20 yil 20% -> compound  -> 100_000_000
         public double Ipoteka(double sum, int years) 
         {
