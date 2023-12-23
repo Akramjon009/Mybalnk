@@ -43,8 +43,7 @@
         #region ta'lim kredit 5 yil 0% -> simple  -> 8_000_000
         public double Talimkd(double sum, int years) 
         {
-            double rate = 0;
-            return sum * Math.Pow(1 + rate, years) - sum;
+            return sum;
         }
         #endregion
 
