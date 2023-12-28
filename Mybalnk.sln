@@ -7,9 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bank", "ConsoleApp1\Bank.cs
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project", "ConsoleApp2\Project.csproj", "{8A20431A-5580-4BA7-8DC4-F7EE65C00E9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegateslesson", "Delegateslesson\Delegateslesson.csproj", "{ED88EC4E-5178-4274-81CA-06674831936C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegateslesson", "Delegateslesson\Delegateslesson.csproj", "{ED88EC4E-5178-4274-81CA-06674831936C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arraydelegate", "Arraydelegate\Arraydelegate.csproj", "{A30BFEBE-81C1-493D-A361-93597C487649}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arraydelegate", "Arraydelegate\Arraydelegate.csproj", "{A30BFEBE-81C1-493D-A361-93597C487649}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{F59C288F-4C1F-44AC-8DE9-CE334EE98AF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp4", "ConsoleApp4\ConsoleApp4.csproj", "{00437710-6C70-47B2-AB3F-60EAB00A9C56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{A30BFEBE-81C1-493D-A361-93597C487649}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A30BFEBE-81C1-493D-A361-93597C487649}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A30BFEBE-81C1-493D-A361-93597C487649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F59C288F-4C1F-44AC-8DE9-CE334EE98AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F59C288F-4C1F-44AC-8DE9-CE334EE98AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F59C288F-4C1F-44AC-8DE9-CE334EE98AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F59C288F-4C1F-44AC-8DE9-CE334EE98AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00437710-6C70-47B2-AB3F-60EAB00A9C56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00437710-6C70-47B2-AB3F-60EAB00A9C56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00437710-6C70-47B2-AB3F-60EAB00A9C56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00437710-6C70-47B2-AB3F-60EAB00A9C56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

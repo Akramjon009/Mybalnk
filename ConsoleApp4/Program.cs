@@ -1,0 +1,10 @@
+﻿Console.WriteLine("kun");
+int day = int.Parse(Console.ReadLine());
+Console.WriteLine("oy");
+int oy = int.Parse(Console.ReadLine());
+Console.WriteLine("yil");
+int yil = int.Parse(Console.ReadLine());
+var dateTime = new DateTime(yil,oy,day);
+var now = DateTime.Now;
+TimeSpan days = now - dateTime;
+Console.WriteLine(days.Days);
